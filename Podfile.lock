@@ -1,0 +1,14 @@
+PODS:
+  - MagicalRecord (2.2)
+
+DEPENDENCIES:
+  - MagicalRecord (from `https://github.com/magicalpanda/MagicalRecord.git`)
+
+EXTERNAL SOURCES:
+  MagicalRecord:
+    :git: https://github.com/magicalpanda/MagicalRecord.git
+
+SPEC CHECKSUMS:
+  MagicalRecord: 565156bae4de961860fad200a5c52e21e7933ebe
+
+COCOAPODS: 0.24.0
